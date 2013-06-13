@@ -1,0 +1,7 @@
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+D:\Kinect\Avateering unmodified\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
